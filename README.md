@@ -1,2 +1,11 @@
-# EOD-UPDATES-DAILY
-07/03/202 : Today I worked on Requestor Form Page and Do Research on Warehouse Management and Review the All modules
+# Daily Work Updates 
+|Employee Name|Role|Git Checkin|Figma Checkin|Miro Checkin|Comments|
+|-------------|----|-----------|-------------|------------|--------|
+|Yahiya Ali Khan|UX Designer|
+|Hyder Mohammed|UX Designer|
+|Mohd Sadiqh|UX Designer|
+|Rafi Uddin Mohammed|UX Designer|
+
+
+
+
